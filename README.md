@@ -9,7 +9,7 @@ Click the "Fork" button at the top right of the GitHub repository page.
 
 Clone your forked repository:
 
-git clone https://github.com/Swarajaya/3D-Market-Regime-State-Machine.git
+git clone https://github.com/Ashish10-AI/3D-Market-Regime-State-Machine.git
 
 
 Navigate to the project directory and follow the setup instructions below.
